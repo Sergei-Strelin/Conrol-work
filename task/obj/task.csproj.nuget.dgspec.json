@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сергей\\Documents\\Control work\\Control work.csproj": {}
+    "C:\\Users\\Сергей\\Documents\\Control work\\task\\task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сергей\\Documents\\Control work\\Control work.csproj": {
+    "C:\\Users\\Сергей\\Documents\\Control work\\task\\task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сергей\\Documents\\Control work\\Control work.csproj",
-        "projectName": "Control work",
-        "projectPath": "C:\\Users\\Сергей\\Documents\\Control work\\Control work.csproj",
+        "projectUniqueName": "C:\\Users\\Сергей\\Documents\\Control work\\task\\task.csproj",
+        "projectName": "task",
+        "projectPath": "C:\\Users\\Сергей\\Documents\\Control work\\task\\task.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сергей\\Documents\\Control work\\obj\\",
+        "outputPath": "C:\\Users\\Сергей\\Documents\\Control work\\task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config"
